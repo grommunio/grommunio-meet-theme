@@ -1,0 +1,243 @@
+.welcome {
+	background-image:linear-gradient(-90deg,#171615 0,#292825 50%,#171615 100%);
+}
+
+body * {
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif!important;
+}
+
+.welcome {
+	background:#fff url(../images/welcome-background.svg) no-repeat center center!important;
+	background-color:#fff;
+	background-size:cover!important;
+	margin:0;
+	padding:0;
+}
+
+.welcome-footer-centered {
+	display:none;
+}
+
+.welcome .header {
+	background:none;
+}
+
+.welcome .header .header-text-title,#x-bottom p {
+	color:#e7dcca!important;
+	font-weight:300;
+}
+
+a,#x-bottom a {
+	color:#f57921;
+}
+
+.welcome .welcome-page-button {
+	background:#f57921;
+}
+
+.welcome .header .tab-container {
+	background:#e7dcca;
+}
+
+.meetings-list .item.with-click-handler:hover {
+	background:rgba(255,255,255,.25);
+	background-color:#fff;
+	background-size:cover;
+	margin:0;
+	padding:0;
+}
+
+.welcome-footer-centered {
+	display:none;
+}
+
+.welcome .header {
+	background:none;
+}
+
+.welcome .header .header-text-title,#x-bottom p {
+	color:#e7dcca!important;
+	font-weight:300;
+}
+
+a,#x-bottom a {
+	color:#f57921;
+}
+
+.welcome .welcome-page-button {
+	background:#f57921;
+}
+
+.welcome .header .tab-container {
+	background:#e7dcca;
+}
+
+.meetings-list .item.with-click-handler:hover {
+	background:rgba(255,255,255,.25);
+}
+
+.welcome-footer-centered {
+	display:none;
+}
+
+.welcome .header {
+	background:none;
+}
+
+.welcome .header .header-text-title,#x-bottom p {
+	color:#e7dcca!important;
+	font-weight:300;
+}
+
+a,#x-bottom a {
+	color:#f57921;
+}
+
+.welcome .welcome-page-button {
+	background:#f57921;
+}
+
+.welcome .header .tab-container {
+	background:#e7dcca;
+}
+
+.meetings-list .item.with-click-handler:hover {
+	background:rgba(255,255,255,.25);
+	background-color:#fff;
+	background-size:cover;
+	margin:0;
+	padding:0;
+}
+
+.welcome-footer-centered {
+	display:none;
+}
+
+.welcome .header {
+	background:none;
+}
+
+.welcome .header .header-text-title,#x-bottom p {
+	color:#e7dcca!important;
+	font-weight:300;
+}
+
+a,#x-bottom a {
+	color:#f57921;
+}
+
+.welcome .welcome-page-button {
+	background:#f57921;
+}
+
+..welcome .header .tab-container {
+	background:#e7dcca;
+}
+
+.meetings-list .item.with-click-handler:hover {
+	background:rgba(255,255,255,.25);
+	background-size:cover;
+	margin:0;
+	padding:0;
+}
+
+.welcome-footer-centered {
+	display:none;
+}
+
+.welcome .header {
+	background:none;
+}
+
+.welcome .header .header-text-title,#x-bottom p {
+	color:#e7dcca!important;
+	font-weight:300;
+}
+
+a,#x-bottom a {
+	color:#f57921;
+}
+
+.welcome .welcome-page-button {
+	background:#f57921;
+}
+
+.welcome .header .tab-container {
+	background:#e7dcca;
+}
+
+.meetings-list .item.with-click-handler:hover {
+	background:rgba(255,255,255,.25);
+}
+
+.welcome-footer-centered {
+	display:none;
+}
+
+.welcome .header {
+	background:none;
+}
+
+.welcome .header .header-container {
+	background:rgba(253,253,253,0.85);
+	border:1px solid #ccc;
+	border-radius:10px;
+	display:flex;
+	margin:104px auto 10%;
+	max-width:580px;
+	padding-bottom:30px;
+}
+
+.welcome .header #enter_room {
+	border:1px solid #ccc;
+}
+
+.welcome .header .header-text-title,#x-bottom p {
+	color:#e7dcca!important;
+	font-weight:300;
+	visibility:hidden;
+}
+
+a,#x-bottom a {
+	color:#f57921;
+}
+
+.welcome .header .header-text-title:after {
+        color:#3f3f3f;
+        content:'';
+        padding-top: 100px;
+        background-image:url(../images/watermark-dark.svg);
+        background-size: 90% 90%;
+        background-repeat: no-repeat;
+        background-position: 50% 10%;
+        display:block;
+        font-size:20pt;
+        font-weight:600;
+        margin-bottom:40px;
+        visibility:visible;
+}
+
+.welcome .header .header-text-subtitle {
+	display:none;
+}
+
+.welcome .welcome-page-button {
+	background:#f57921;
+}
+
+.welcome .header .tab-container {
+	background:#e7dcca;
+}
+
+.meetings-list .item.with-click-handler:hover {
+	background:rgba(255,255,255,.25);
+}
+
+button#enter_room_button.welcome-page-button {
+	background:#0072B0;
+}
+
+.welcome .welcome-watermark .watermark.leftwatermark {
+        width: 142px;
+        height: 64px;
+}

@@ -1,3 +1,8 @@
 # grammm-meet-theme
 
-Theme for grammm-meet
+## installation
+
+- title.html -> ./
+- interface_config.js -> ./
+- *.svg, *.ico, *.png -> ./images/
+- custom.css >> css/all.css
