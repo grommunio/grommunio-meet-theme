@@ -1,4 +1,4 @@
-# grammm-meet-theme
+# grommunio-meet-theme
 
 ## installation
 
